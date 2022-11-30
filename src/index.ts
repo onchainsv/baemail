@@ -1,5 +1,3 @@
 
-export default async function sendBaemail() {
-
-}
+export { createMessage } from './baemail'
 
